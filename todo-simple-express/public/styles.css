@@ -1,0 +1,27 @@
+.clearfix {
+  overflow: auto;
+}
+body{
+  background: gray;
+}
+h1{
+  display: inline-block;
+  margin: 40px 40% 25px 45%;
+}
+.listContainer{
+  background: white;
+  border: 2px dashed blue;
+  margin-right: 25%;
+  margin-left: 25%;
+  text-align: center;
+}
+.containerForm{
+  margin-top: 25px;
+}
+.message ul {
+
+}
+.messages  li{
+  list-style-type: none;
+  padding: 0px
+}
